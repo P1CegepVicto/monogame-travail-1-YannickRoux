@@ -16,6 +16,7 @@ namespace Projet_01
         GameObject ennemi;
         GameObject test;
         GameObject carrot;
+        GameObject[] objet = new GameObject[10];
 
 
         public Game1()
